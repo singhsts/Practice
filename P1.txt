@@ -1,2 +1,6 @@
 This is a P1 file for main branch
+<<<<<<< HEAD
 Changing it locally
+=======
+Changing this line remotely
+>>>>>>> defb22d6c8105c8f70721b28b6b55b1c42417399
